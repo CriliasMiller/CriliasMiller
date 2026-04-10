@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a PhD candidate in Computer Science and Technology at **Hefei University of Technology**, advised by Prof. Dan Guo and Prof. Meng Wang. Currently, I'm a Research Intern at **Zhipu AI**, focusing on post-training optimization for image generation models, including:
+I'm a PhD candidate in Computer Science and Technology at **Hefei University of Technology**. Currently, I'm a Research Intern at **Zhipu AI**, focusing on post-training optimization for image generation models, including:
 
 - 🎨 **Image Generation**
 - 🧠 **Model Distillation**
