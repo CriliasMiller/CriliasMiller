@@ -1,0 +1,34 @@
+# Hi there! 👋 I'm Zhenxing Zhang
+
+[![GitHub followers](https://img.shields.io/github/followers/CriliasMiller?style=social)](https://github.com/CriliasMiller)
+[![GitHub stars](https://img.shields.io/github/stars/CriliasMiller?style=social)](https://github.com/CriliasMiller)
+
+**PhD Candidate** 🎓 | **Research Intern @ Zhipu AI** 🤖
+
+---
+
+## 🚀 About Me
+
+I'm a PhD candidate in Computer Science and Technology at **Hefei University of Technology**, advised by Prof. Dan Guo and Prof. Meng Wang. Currently, I'm a Research Intern at **Zhipu AI**, focusing on post-training optimization for image generation models, including:
+
+- 🎨 **Image Generation**
+- 🧠 **Model Distillation**
+- 🤖 **Reinforcement Learning**
+- ⚙️ **Infrastructure for Large Models**
+
+## 📬 Get in Touch
+
+- 📧 **Email**: [Crilias.zzx@gmail.com](mailto:Crilias.zzx@gmail.com)
+- 📚 **Google Scholar**: [Scholar](https://scholar.google.com/citations?user=6Uqe9ewAAAAJ&hl=zh-CN)
+- 🌐 **Website**: [criliasmiller.github.io](https://criliasmiller.github.io)
+- 💼 **LinkedIn**: [Connect](https://linkedin.com)
+
+---
+
+⭐ **If you find my work interesting, consider giving it a star!** ⭐
+
+### Show some love by starring my repositories ⬆️
+
+---
+
+*💡 **Pro tip**: Click the ⭐ star button at the top right to follow my work and get notified about updates!*
