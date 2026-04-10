@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Zhenxing Zhang
+# Hi there! 👋 I'm Zhenxing
 
 ## 🚀 About Me
 
