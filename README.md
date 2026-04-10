@@ -1,12 +1,5 @@
 # Hi there! 👋 I'm Zhenxing Zhang
 
-[![GitHub followers](https://img.shields.io/github/followers/CriliasMiller?style=social)](https://github.com/CriliasMiller)
-[![GitHub stars](https://img.shields.io/github/stars/CriliasMiller?style=social)](https://github.com/CriliasMiller)
-
-**PhD Candidate** 🎓 | **Research Intern @ Zhipu AI** 🤖
-
----
-
 ## 🚀 About Me
 
 I'm a PhD candidate in Computer Science and Technology at **Hefei University of Technology**, advised by Prof. Dan Guo and Prof. Meng Wang. Currently, I'm a Research Intern at **Zhipu AI**, focusing on post-training optimization for image generation models, including:
